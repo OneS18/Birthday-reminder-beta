@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  display: flex;
+  align-items: center;
+}
+
+.leaderboard {
+  max-width: 490px;
+  width: 100%;
+  border-radius: 12px;
+}
+
+.top {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  border: 5px solid #000000;
+  text-align: center;
+  align-items: center;
+}
